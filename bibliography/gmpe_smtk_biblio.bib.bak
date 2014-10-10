@@ -1,0 +1,394 @@
+% This file was created with JabRef 2.9.2.
+% Encoding: MacRoman
+
+@ARTICLE{AbrahamsonSilva2008,
+  author = {Abrahamson, N. A. and Silva, W. J.},
+  title = {Summary of the {A}brahamson \& {S}ilva {NGA} Ground Motion Relations},
+  journal = {Earthquake Spectra},
+  year = {2008},
+  volume = {24(1)},
+  pages = {67 - 97},
+  owner = {GW},
+  timestamp = {2014.06.05}
+}
+
+@ARTICLE{AbrahamsonYoungs1992,
+  author = {Abrahamson, N. A. and Youngs, R. R.},
+  title = {A Stable Algorithm for Regression Analysis Using the Random Effects
+	Model},
+  journal = {Bulletin of the Seismological Society of America},
+  year = {1992},
+  volume = {82(1)},
+  pages = {505 - 510},
+  owner = {GW},
+  timestamp = {2014.06.05}
+}
+
+@BOOK{AkiRichards2002,
+  title = {Quantitative Seismology},
+  publisher = {University Science Books},
+  year = {2002},
+  author = {Aki, K. and Richards, P. G.},
+  address = {Sausalito, California},
+  owner = {marcop},
+  timestamp = {2010.10.04}
+}
+
+@ARTICLE{AkkarBommer2010,
+  author = {Akkar, S. and Bommer, J. J.},
+  title = {Empirical equations for the prediction of {PGA, PGV}, and spectral
+	accelerations in {E}urope, the {M}editerranean {R}egion, and the
+	{M}iddle {E}ast},
+  journal = {Seismological Research Letters},
+  year = {2010},
+  volume = {81},
+  pages = {195-206},
+  number = {2},
+  owner = {marcop},
+  timestamp = {2011.11.06}
+}
+
+@ARTICLE{AkkarCagnan2010,
+  author = {Akkar, S. and Cagnan, Z.},
+  title = {A Local Ground-Motion Predictive Model for Turkey, and Its Comparison
+	with Other Regional and Global Ground-Motion Models},
+  journal = {Bulletin of the Seismological Society of America},
+  year = {2010},
+  volume = {100(6)},
+  pages = {2978 - 2995},
+  owner = {GW},
+  timestamp = {2014.06.05}
+}
+
+@ARTICLE{Akkar_etal2014,
+  author = {Akkar, S., and Sandikkaya, M. A. and Bommer, J. J.},
+  title = {Empirical Ground-Motion Models for Point- and Extended- Source Crustal
+	Earthquake Scenarios in Europe and the Middle East},
+  journal = {Bulletin of Earthquake Engineering},
+  year = {2014},
+  volume = {12(1)},
+  pages = {359 - 387},
+  owner = {GW},
+  timestamp = {2014.06.05}
+}
+
+@ARTICLE{Atkinson2006,
+  author = {Atkinson, G. M.},
+  title = {Single-Station Sigma},
+  journal = {Bulletin of the Seismological Society of America},
+  year = {2006},
+  volume = {96(2)},
+  pages = {446 - 455},
+  owner = {GW},
+  timestamp = {2014.06.13}
+}
+
+@ARTICLE{BakerJayaram2008,
+  author = {Baker, J. W. and Jayaram, N.},
+  title = {Correlation of Spectral Acceleration Values from {NGA} Ground Motion
+	Models},
+  journal = {Earthquake Spectra},
+  year = {2008},
+  volume = {24(1)},
+  pages = {299 - 317},
+  owner = {GW},
+  timestamp = {2013.05.09}
+}
+
+@ARTICLE{BeyerBommer2006,
+  author = {Beyer, K. and Bommer, J. J.},
+  title = {Relationships Between Median Values and Between Aleatory Variabilities
+	for Different Definitions of the Horizontal Component of Ground Motion},
+  journal = {Bulletin of the Seismological Society of America},
+  year = {2006},
+  volume = {96(4A)},
+  pages = {1512 - 1522},
+  owner = {GW},
+  timestamp = {2014.06.05}
+}
+
+@ARTICLE{boore2010,
+  author = {Boore, D. M.},
+  title = {Orientation-Independent, Nongeometric-Mean Measures of Seismic Intensity
+	from Two Horizontal Components of Motion},
+  journal = {Bulletin of the Seismological Society of America},
+  year = {2010},
+  volume = {100},
+  pages = {1830-1835},
+  number = {4},
+  doi = {10.1785/0120090400},
+  owner = {mpagani},
+  timestamp = {2014.05.28}
+}
+
+@ARTICLE{boore2008,
+  author = {Boore, D. M. and Atkinson, G. M.},
+  title = {{Ground-Motion Prediction Equations for the Average Horizontal Component
+	of PGA, PGV, and 5\%-Damped PSA at Spectral Periods between 0.01
+	s and 10.0 s}},
+  journal = {Earthquake Spectra},
+  year = {2008},
+  volume = {24},
+  pages = {99-138},
+  number = {1},
+  month = {February},
+  owner = {marcop},
+  timestamp = {2011.02.10}
+}
+
+@ARTICLE{Boore_etal2006,
+  author = {Boore, D. M. and Watson-Lamprey, J. and Abrahamson, N. A.},
+  title = {Orientation-Independent Measures of Ground Motion},
+  journal = {Bulletin of the Seismological Society of America},
+  year = {2006},
+  volume = {96(4A)},
+  pages = {1502 - 1511},
+  owner = {GW},
+  timestamp = {2014.06.05}
+}
+
+@ARTICLE{CampbellBozorgnia2008,
+  author = {Campbell, K. W. and Bozorgnia, Y.},
+  title = {{NGA} Ground Motion Model for the Geometric Mean Component of {PGA},
+	{PGV}, {PGD} and 5 \% Damped Linear Elastic Response Spectra for
+	Periods Ranging from 0.01 s to 10.0 s},
+  journal = {Earthquake Spectra},
+  year = {2008},
+  volume = {24(1)},
+  pages = {139 - 171},
+  owner = {GW},
+  timestamp = {2014.06.05}
+}
+
+@ARTICLE{chiou2008,
+  author = {Chiou, B. S.-J. and Youngs, R. R.},
+  title = {An {NGA} Model for the Average Horizontal Component of Peak Ground
+	Motion and Response Spectra},
+  journal = {Earthquake Spectra},
+  year = {2008},
+  volume = {24},
+  pages = {173-215},
+  owner = {marcop},
+  timestamp = {2011.02.10}
+}
+
+@BOOK{crowley2013,
+  title = {OpenQuake Book},
+  publisher = {GEM FOUNDATION},
+  year = {2013},
+  author = {Crowley, H. and Monelli, D. and Pagani, M. and Silva, V. and Weatherill,
+	G.},
+  address = {Pavia, Italy},
+  owner = {marcop},
+  timestamp = {2010.10.04}
+}
+
+@ARTICLE{Crowley_etal2008b,
+  author = {Crowley, H. and Stafford, P. J. and Bommer, J. J.},
+  title = {Can Earthquake Loss Models be Validated Using Field Observations?},
+  journal = {Journal of Earthquake Engineering},
+  year = {2008b},
+  volume = {127},
+  pages = {1078 - 1104},
+  owner = {GW},
+  timestamp = {2013.05.09}
+}
+
+@ARTICLE{Douglas2003,
+  author = {Douglas, J.},
+  title = {Earthquake ground motion estimation using strong-motion records:
+	a review of equations for the estimation of peak ground acceleration
+	and response spectral ordinates},
+  journal = {Earth Science Reviews},
+  year = {2003},
+  volume = {61},
+  pages = {43 - 104},
+  owner = {GW},
+  timestamp = {2014.06.05}
+}
+
+@ARTICLE{Jayaram2009,
+  author = {Jayaram, N. and Baker, J. W.},
+  title = {Correlation model for spatially distributed ground-motion intensities},
+  journal = {Earthquake Engineering and Structural Dynamics},
+  year = {2009},
+  volume = {38},
+  pages = {1687-1708},
+  number = {15},
+  doi = {10.1002/eqe.922},
+  owner = {marco},
+  timestamp = {2010.08.05}
+}
+
+@ARTICLE{JayaramBaker2009,
+  author = {Jayaram, N. and Baker, J. W.},
+  title = {Statistical Tests for the Joint Distribution of Spectral Acceleration
+	Values},
+  journal = {Bulletin of the Seismological Society of America},
+  year = {2009},
+  volume = {98(5)},
+  pages = {2231 - 2243},
+  owner = {GW},
+  timestamp = {2014.06.05}
+}
+
+@ARTICLE{KaleAkkar2013,
+  author = {Kale, \:{O}, and Akkar, S.},
+  title = {A New Procedure for Selecting and Ranking Ground-Motion Prediction
+	Equations ({GMPE}S): The {E}uclidean Distance-Based Ranking ({EDR})
+	Method},
+  journal = {Bulletin of the Seismological Society of America},
+  year = {2013},
+  volume = {103(2A)},
+  pages = {1069 - 1084},
+  owner = {GW},
+  timestamp = {2014.06.05}
+}
+
+@ARTICLE{KramerMitchell1996,
+  author = {Kramer, S. L. and Mitchell, R. A.},
+  title = {Ground Motion Intensity Measures for Liquefaction Hazard Evaluation},
+  journal = {Earthquake Spectra},
+  year = {2006},
+  volume = {22(2)},
+  pages = {413 - 438},
+  owner = {GW},
+  timestamp = {2014.07.31}
+}
+
+@ARTICLE{NigamJennings1969,
+  author = {Nigam, N. C., and Jennings, P. C.},
+  title = {Calculation of Response Spectra from Strong Earthquake Records},
+  journal = {Bulletin of the Seismological Society of America},
+  year = {1969},
+  volume = {59(2)},
+  pages = {909 - 922},
+  owner = {GW},
+  timestamp = {2014.06.05}
+}
+
+@INPROCEEDINGS{Park_etal2007,
+  author = {Park, J. and Bazzurro, P. and Baker, J. W.},
+  title = {Modeling spatial correlation of ground motion Intensity Measures
+	for regional seismic hazard and portfolio loss estimation},
+  booktitle = {Applications of Statistics and Probability in Civil Engineering},
+  year = {2007},
+  editor = {Kanada, and Takada and Furuta},
+  publisher = {Taylor \& Francis Group, London},
+  owner = {GW},
+  timestamp = {2013.05.09}
+}
+
+@ARTICLE{RodriguezMarek_etal2013,
+  author = {Rodriguez-Marek, A. and Cotton, F. and Abrahamson, N. A. and Akkar,
+	S. and Al Atik, L. and Edwards, B. and Montalva, G. A. and Dawood,
+	H. M.},
+  title = {A Model for Single-Station Standard Deviation Using Data from Various
+	Tectonic Regimes},
+  journal = {Bulletin of the Seismological Society of America},
+  year = {2013},
+  volume = {103(6)},
+  pages = {3149 - 3163},
+  owner = {GW},
+  timestamp = {2014.06.13}
+}
+
+@ARTICLE{RodriguezMarek_etal2011,
+  author = {Rodriguez-Marek, A. and Montalva, G. A. and Cotton, F. and Bonilla,
+	F.},
+  title = {Analysis of Single-Station Standard Deviation using the {K}i{K}-{N}et
+	data},
+  journal = {Bulletin of the Seismological Society of America},
+  year = {2011},
+  volume = {101(3)},
+  pages = {1242 - 1258},
+  owner = {GW},
+  timestamp = {2014.06.13}
+}
+
+@ARTICLE{Scherbaum_etal2004,
+  author = {Scherbaum, F. and Cotton, F. and Smit, P.},
+  title = {On the Use of Response Spectral-Reference Data for the Selection
+	and Ranking of Ground Motion Models for Seismic Hazard Analysis in
+	Regions of Moderate Seismicity: The Case of Rock Motion},
+  journal = {Bulletin of the Seismological Society of America},
+  year = {2004},
+  volume = {94(6)},
+  pages = {2164 - 2184},
+  owner = {GW},
+  timestamp = {2014.06.05}
+}
+
+@ARTICLE{Scherbaum_etal2009,
+  author = {Scherbaum, F. and Delavaud, E. and Riggelsen, C},
+  title = {Model Selection in Seismic Hazard Analysis: An Information-Theoretic
+	Perspective},
+  journal = {Bulletin of the Seismological Society of America},
+  year = {2009},
+  volume = {99(6)},
+  pages = {3234 - 3247},
+  owner = {GW},
+  timestamp = {2014.06.05}
+}
+
+@ARTICLE{Stafford2012,
+  author = {Stafford, P. J.},
+  title = {Evaluation of structural performance in the immediate aftermath of
+	an earthquake: a case study of the 2011 {C}hristchurch earthquake},
+  journal = {International Journal of Forensic Engineering},
+  year = {2012},
+  volume = {1(1)},
+  pages = {58 - 77},
+  owner = {GW},
+  timestamp = {2014.01.28}
+}
+
+@ARTICLE{Stafford_etal2008,
+  author = {Stafford, P. J. and Strasser, F. O. and Bommer, J. J.},
+  title = {An evaluation of the Applicability of {NGA} models to ground-motion
+	prediction in the {E}uro-{M}editerranean region},
+  journal = {Bulletin of Earthquake Engineering},
+  year = {2008},
+  volume = {6(2)},
+  pages = {149 - 177},
+  owner = {GW},
+  timestamp = {2014.06.05}
+}
+
+@TECHREPORT{hmtk_guide,
+  author = {Weatherill, G.},
+  title = {Hazard Modeller's Toolkit - User Guide},
+  institution = {Global Earthquake Model (GEM)},
+  year = {2014},
+  owner = {GW},
+  timestamp = {2014.06.05}
+}
+
+@ARTICLE{WellsCoppersmith1994,
+  author = {Wells, D. L. and Coppersmith, K. J.},
+  title = {New Empirical Relationships among Magnitude, Rupture Length, Rupture
+	Width, Rupture Area, and Surface Displacement},
+  journal = {Bulletin of the Seismological Society of America},
+  year = {1994},
+  volume = {84},
+  pages = {974-1002},
+  number = {4},
+  owner = {marcop},
+  timestamp = {2011.08.18}
+}
+
+@ARTICLE{Zhao2006,
+  author = {Zhao, J. X. and Zhang, J. and Asano, A. and Oyno, Y. and Oouchi,
+	T. and Takahashi, T. and Ogawa, H. and Irikura, K. and Thio, H. K.
+	and Somerville, P. G. and Fukushima, Y. and Fukushima, Y.},
+  title = {Attenuation Relations of Strong Ground Motion in {J}apan Using Site
+	Classification Based on Predominant Period},
+  journal = {Bulletin of the Seismological Society of America},
+  year = {2006},
+  volume = {96},
+  pages = {898-913},
+  doi = {10.1785/0120050122},
+  owner = {marcop},
+  timestamp = {2012.06.22}
+}
+
