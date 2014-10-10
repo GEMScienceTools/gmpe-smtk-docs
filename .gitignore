@@ -107,3 +107,8 @@ sympy-plots-for-*.tex/
 
 # xindy
 *.xdy
+
+# Mac and Vim
+*.swp
+*.DS_Store
+*.texpadtmp
